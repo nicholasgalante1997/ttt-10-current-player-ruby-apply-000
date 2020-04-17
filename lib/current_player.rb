@@ -13,3 +13,6 @@ def turn_count(turn)
   end
   move_count.length.to_i 
 end
+
+def current_player(board)
+  
