@@ -5,7 +5,7 @@ def turn_count(turn)
     counter = 0 
     if unit == "X" || unit == "O"
       puts "spot taken"
-      
+      move_count.push 
   
   
 end
