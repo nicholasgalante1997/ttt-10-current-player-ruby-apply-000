@@ -3,7 +3,9 @@ def turn_count(turn)
   move_count = []
   turn.each do |unit|
     counter = 0 
-    
+    if unit == "X" || unit == "O"
+      puts "spot taken"
+      
   
   
 end
