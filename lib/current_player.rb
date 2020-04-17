@@ -6,6 +6,8 @@ def turn_count(turn)
     if unit == "X" || unit == "O"
       puts "spot taken"
       move_count.push(1)
+    else
+      puts "spots free"
       
   
   
