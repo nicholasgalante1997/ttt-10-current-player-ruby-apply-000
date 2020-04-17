@@ -9,7 +9,9 @@ def turn_count(turn)
     else
       puts "spots free"
       counter += 1 
-      
+    end
+  end
+  
   
   
 end
