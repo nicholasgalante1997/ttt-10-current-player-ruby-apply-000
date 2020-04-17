@@ -8,6 +8,7 @@ def turn_count(turn)
       move_count.push(1)
     else
       puts "spots free"
+      counter += 1 
       
   
   
