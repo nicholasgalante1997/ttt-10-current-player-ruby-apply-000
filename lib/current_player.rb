@@ -12,7 +12,4 @@ def turn_count(turn)
     end
   end
   move_count.length.to_i 
-  
-  
-  
 end
